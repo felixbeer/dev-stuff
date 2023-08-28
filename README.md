@@ -1,3 +1,2 @@
-# gamedev-utilities
-
-Useful utilities for game development of any sort.
+# dev-stuff
+A collection of random but occasionally useful code snippets and scripts.
